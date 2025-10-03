@@ -18,7 +18,7 @@
     "@capacitor/filesystem": "^5.2.2",
     "@capacitor/haptics": "^5.0.8",
     "@capacitor/share": "^5.0.8",
-    "lucide-react": "^0.344.0",
+    "lucide-react": "^0.544.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
